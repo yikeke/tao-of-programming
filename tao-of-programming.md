@@ -1,8 +1,8 @@
 # 《编程之道》最新中英双语版
 
-作者：Geoffrey James
+作者：[Geoffrey James](https://www.mit.edu/~xela/tao.html)
 
-译者：Coco
+译者：[Coco](https://github.com/yikeke)
 
 相关文章链接：[五次登上国外程序员圈“新闻联播”，编程界《道德经》有何魔力？最新双语版，速看速收藏！](https://mp.weixin.qq.com/s/yIV0Ims_an9pkbdMI-XN6g)
 
