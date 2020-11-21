@@ -4,7 +4,9 @@
 
 译者：[Coco](https://github.com/yikeke)
 
-相关文章链接：[五次登上国外程序员圈“新闻联播”，编程界《道德经》有何魔力？最新双语版，速看速收藏！](https://mp.weixin.qq.com/s/yIV0Ims_an9pkbdMI-XN6g)
+相关文章链接：[**五次登上国外程序员圈“新闻联播”，编程界《道德经》有何魔力？最新双语版，速看速收藏！**](https://mp.weixin.qq.com/s/yIV0Ims_an9pkbdMI-XN6g)
+
+**如有改进建议，欢迎提 Issue 或 Pull Request，为这版翻译作出贡献！**
 
 ## 目录
 
