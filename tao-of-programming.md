@@ -143,8 +143,8 @@
 昔日，图灵大师梦见自己变成了一台机器，他醒来后惊呼：
 
 > "I don't know whether I am Turing dreaming that I am a machine, or a machine dreaming that I am Turing!"
->
-> “我不确定我是图灵梦见自己变成了机器，还是我是机器梦见自己变成了图灵！”
+
+“我不确定我是图灵梦见自己变成了机器，还是我是机器梦见自己变成了图灵！”
 
 ### 2.3
 
@@ -157,8 +157,8 @@
 老板说：“我不该让你去参会的。那些程序员早已从现实世界超脱。他们认为生活是荒谬的，只是一场偶然的巧合。他们来去随心，不受限制。没有牵挂的他们，只为程序而活。社会习俗如何能左右他们？”
 
 > "They are alive within the Tao."
->
-> “他们活在道中。”
+
+“他们活在道中。”
 
 ### 2.4
 
@@ -187,8 +187,8 @@
 从前，有个人去参加计算机商展。每天他进门时，都会跟门口的保安说：
 
 > "I am a great thief, renowned for my feats of shoplifting. Be forewarned, for this trade show shall not escape unplundered."
->
-> “我是一名伟大的小偷，最擅长顺手牵羊，颇负盛名。提前警告你，这次展会也是我的目标之一。”
+
+“我是一名伟大的小偷，最擅长顺手牵羊，颇负盛名。提前警告你，这次展会也是我的目标之一。”
 
 > This speech disturbed the guard greatly, because there were millions of dollars of computer equipment inside, so he watched the man carefully. But the man merely wandered from booth to booth, humming quietly to himself.
 
@@ -223,16 +223,16 @@
 从前有位程序员在吴氏企业任职。吴总问程序员：“财务系统和操作系统，哪个更容易设计？”
 
 > "An operating system," replied the programmer.
->
-> “操作系统，”程序员回答。
+
+“操作系统，”程序员回答。
 
 > The warlord uttered an exclamation of disbelief. "Surely an accounting package is trivial next to the complexity of an operating system," he said.
 
 吴总发出一声惊叹，难以置信道：“但与操作系统的复杂性相比，设计财务系统肯定易如反掌吧？”
 
 > "Not so," said the programmer, "When designing an accounting package, the programmer operates as a mediator between people having different ideas: how it must operate, how its reports must appear, and how it must conform to the tax laws. By contrast, an operating system is not limited by outside appearances. When designing an operating system, the programmer seeks the simplest harmony between machine and ideas. This is why an operating system is easier to design."
->
-> “不，”程序员说，“设计财务系统时，程序员是协调者，帮助人们在不同使用需求​间达成一致，比如如何操作界面、显示报表、遵守税法等。但操作系统不受前端的限制。设计操作系统时，程序员只需在机器与想法之间，寻求最简单的和谐统一。因此，操作系统更容易设计。”
+
+“不，”程序员说，“设计财务系统时，程序员是协调者，帮助人们在不同使用需求​间达成一致，比如如何操作界面、显示报表、遵守税法等。但操作系统不受前端的限制。设计操作系统时，程序员只需在机器与想法之间，寻求最简单的和谐统一。因此，操作系统更容易设计。”
 
 > The warlord of Wu nodded and smiled. "That is all good and well, but which is easier to debug?"
 
@@ -249,20 +249,20 @@
 一位主管找到编程大师，请他看一个应用程序的需求文档。主管问：“如果让 5 个程序员去设计这个系统，需要多长时间？”
 
 > "It will take one year," said the Master promptly.
->
-> “需要一年，”大师毫不犹豫地说。
+
+“需要一年，”大师毫不犹豫地说。
 
 > "But we need this system immediately or even sooner! How long will it take if I assign ten programmers to it?"
->
-> “但我们现在就需要这个系统，越快越好！如果我找 10 个程序员呢？需要多长时间？”
+
+“但我们现在就需要这个系统，越快越好！如果我找 10 个程序员呢？需要多长时间？”
 
 > The Master Programmer frowned. "In that case, it will take two years."
 
 大师皱了皱眉头，“如此的话，需要两年。”
 
 > "And what if I assign a hundred programmers to it?"
->
-> “那如果我找 100 个程序员呢？”
+
+“那如果我找 100 个程序员呢？”
 
 > The Master Programmer shrugged. "Then the design will never be completed," he said.
 
@@ -311,12 +311,12 @@
 编程无常法，唯道恒久远。在获得启示之前，你必须深思道。”
 
 > "But how will I know when I have received Enlightenment?" asked the novice.
->
-> “但我如何知道我获得了启示呢？”弟子问。
+
+“但我如何知道我获得了启示呢？”弟子问。
 
 > "Your program will run correctly," replied the Master.
->
-> “你的程序将顺利运行，”大师答。
+
+“你的程序将顺利运行，”大师答。
 
 ### 4.3
 
@@ -325,28 +325,28 @@
 大师正向他的一个弟子解释道的本质。
 
 > "The Tao is embodied in all software -- regardless of how insignificant," said the Master.
->
-> “道的真意存在于所有的软件中，即使是最不重要的软件。”大师说。
+
+“道的真意存在于所有的软件中，即使是最不重要的软件。”大师说。
 
 > "Is the Tao in a hand-held calculator?" asked the novice.
->
-> “道在手持计算器里吗？”弟子问。
+
+“道在手持计算器里吗？”弟子问。
 
 > "It is," came the reply.
->
-> “在，”大师答。
+
+“在，”大师答。
 
 > "Is the Tao in a video game?" asked the novice.
->
-> “道在电子游戏里吗？”
+
+“道在电子游戏里吗？”
 
 > "It is even in a video game," said the Master.
->
-> “也在。”
+
+“也在。”
 
 > "Is the Tao in the DOS for a personal computer?" asked the novice.
->
-> “个人电脑的 DOS 中也有道吗？”
+
+“个人电脑的 DOS 中也有道吗？”
 
 > The Master coughed and shifted his position slightly. "The lesson is over for today," he said.
 
@@ -359,12 +359,12 @@
 王氏企业内，一名程序员正在编写软件。他的指尖在键盘上飞舞。程序编译时没有任何错误，运行起来如清风拂过，丝滑顺畅。
 
 > "Excellent!" the Prince exclaimed. "Your technique is faultless!"
->
-> “太棒了！”王总惊呼道，“你的技术简直完美！”
+
+“太棒了！”王总惊呼道，“你的技术简直完美！”
 
 > "Technique?" said the programmer, turning from his terminal, "What I follow is Tao -- beyond all techniques! When I first began to program, I would see before me the whole problem in one mass. After three years, I no longer saw this mass. Instead, I used subroutines. But now I see nothing. My whole being exists in a formless void. My senses are idle. My spirit, free to work without a plan, follows its own instinct. In short, my program writes itself. True, sometimes there are difficult problems. I see them coming, I slow down, I watch silently. Then I change a single line of code and the difficulties vanish like puffs of idle smoke. I then compile the program. I sit still and let the joy of the work fill my being. I close my eyes for a moment and then log off."
->
-> “技术？”程序员转过身，“我追求的是道——超越所有技术的道！我刚开始编程时，眼前的问题堆积成团、杂乱如麻。三年后，我再也没见过这样的问题，因为我学会了子程序。如今，我什么也看不见了。我的存在变得虚无，我感受不到任何事物。我的精神不受约束，全凭本能自由工作。换句话说，我写程序时，代码是一行行自己显现的。当然，有时我会碰到一些棘手的问题。我看着这些问题出现，我慢下来，静静地看着。然后我改动一行代码，问题像轻烟般自己消失了。我开始编译程序。我静静地坐着，感受着快乐盈满身心。我闭目冥想片刻，然后退出系统。”
+
+“技术？”程序员转过身，“我追求的是道——超越所有技术的道！我刚开始编程时，眼前的问题堆积成团、杂乱如麻。三年后，我再也没见过这样的问题，因为我学会了子程序。如今，我什么也看不见了。我的存在变得虚无，我感受不到任何事物。我的精神不受约束，全凭本能自由工作。换句话说，我写程序时，代码是一行行自己显现的。当然，有时我会碰到一些棘手的问题。我看着这些问题出现，我慢下来，静静地看着。然后我改动一行代码，问题像轻烟般自己消失了。我开始编译程序。我静静地坐着，感受着快乐盈满身心。我闭目冥想片刻，然后退出系统。”
 
 > Prince Wang said, "Would that all of my programmers were as wise!"
 
@@ -409,16 +409,16 @@
 主管问程序员，写完手上的程序需要多久。“我明天能写完，”程序员毫不犹豫地说。
 
 > "I think you are being unrealistic," said the manager, "Truthfully, how long will it take?"
->
-> “这太不切实际了，”主管说，“实话实说，到底要多久？”
+
+“这太不切实际了，”主管说，“实话实说，到底要多久？”
 
 > The programmer thought for a moment. "I have some features that I wish to add. This will take at least two weeks," he finally said.
 
 程序员想了一会儿。“我想补充一些功能，这至少需要两周，”他最终表示。
 
 > "Even that is too much to expect," insisted the manager, "I will be satisfied if you simply tell me when the program is complete."
->
-> “两周也期望过高了，”主管继续说，“你写完的时候告诉我一声，我就知足了。”
+
+“两周也期望过高了，”主管继续说，“你写完的时候告诉我一声，我就知足了。”
 
 > The programmer agreed to this.
 
@@ -591,28 +591,28 @@
 来自象牙塔的老学究请编程大师看看他的最新发明。大师默默等着，老学究推着一个大黑匣子进了大师的办公室。
 
 > "This is an integrated, distributed, general-purpose workstation," began the Magician, "ergonomically designed with a proprietary operating system, sixth generation languages, and multiple state of the art user interfaces. It took my assistants several hundred man years to construct. Is it not amazing?"
->
-> “这是一个集成的、分布式的通用工作站，”老学究开始说，“符合人体工程学的设计，专有操作系统，第六代语言，拥有多种最先进的用户界面。我的助手们总计花了几百年的人天来建造。了不起吧？”
+
+“这是一个集成的、分布式的通用工作站，”老学究开始说，“符合人体工程学的设计，专有操作系统，第六代语言，拥有多种最先进的用户界面。我的助手们总计花了几百年的人天来建造。了不起吧？”
 
 > The Master Programmer raised his eyebrows slightly. "It is indeed amazing," he said.
 
 编程大师轻挑了下眉头，说：“的确很了不起。”
 
 > "Corporate Headquarters has commanded," continued the Magician, "that everyone use this workstation as a platform for new programs. Do you agree to this?"
->
-> “总部已经下令，”老学究继续说，“对于未来的新项目，所有人都得用这个工作站作为新的开发平台。你同意吗？”
+
+“总部已经下令，”老学究继续说，“对于未来的新项目，所有人都得用这个工作站作为新的开发平台。你同意吗？”
 
 > "Certainly," replied the Master. "I will have it transported to the Data Center immediately!" And the Magician returned to his tower, well pleased.
->
-> “当然，”大师答道。“我马上把它送到数据中心去！”老学究满意地回到了象牙塔。
+
+“当然，”大师答道。“我马上把它送到数据中心去！”老学究满意地回到了象牙塔。
 
 > Several days later, a novice wandered into the office of the Master Programmer and said, "I cannot find the listing for my new program. Do you know where it might be?"
 
 几天后，一位新手走进编程大师的办公室，说：“我找不着我新项目的文件了。你知道它在哪儿吗？”
 
 > "Yes," replied the Master, "the listings are stacked on the platform in the Data Center."
->
-> “知道，”大师回答，“它们在数据中心平台上放着呢。”
+
+“知道，”大师回答，“它们在数据中心平台上放着呢。”
 
 ### 7.4
 
@@ -651,16 +651,16 @@
 大师发现弟子正专心致志地玩着掌上游戏机。
 
 > "Excuse me," he said, "may I examine it?"
->
-> “不好意思，”大师说，“可以让我看看你的游戏机吗？”
+
+“不好意思，”大师说，“可以让我看看你的游戏机吗？”
 
 > The novice bolted to attention and handed the device to the Master. "I see that the device claims to have three levels of play: Easy, Medium, and Hard," said the Master. "Yet every such device has another level of play, where the device seeks not to conquer the human, nor to be conquered by the human."
 
 弟子抬起头，把机器递给了大师。“这游戏机上显示有三种等级的玩法：简单、中等和困难，”大师说，“但这种游戏机还有另一种隐藏玩法。在隐藏玩法下，机器既不会让玩家赢，也不会让玩家输。”
 
 > "Pray, Great Master," implored the novice, "how does one find this mysterious setting?"
->
-> “请告诉我，大师，”弟子恳求道，“这种神秘的玩法怎么进入？”
+
+“请告诉我，大师，”弟子恳求道，“这种神秘的玩法怎么进入？”
 
 > The Master dropped the device to the ground and crushed it with his heel. Suddenly the novice was enlightened.
 
