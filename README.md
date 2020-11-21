@@ -8,15 +8,15 @@
 
 ## 目录
 
-[1. The Silent Void 寂静的虚空](#1-the-silent-void-寂静的虚空)
-[2. The Ancient Masters 旧时代的大师](#2-the-ancient-masters-旧时代的大师)
-[3. Design 程序设计](#3-design-程序设计)
-[4. Coding 编程](#4-coding-编程)
-[5. Maintenance 代码维护](#5-maintenance-代码维护)
-[6. Management 管理](#6-management-管理)
-[7. Corporate Wisdom 企业智慧](#7-corporate-wisdom-企业智慧)
-[8. Hardware and Software 硬件和软件](#8-hardware-and-software-硬件和软件)
-[9. Epilogue 尾声](#9-epilogue-尾声)
+- [1. The Silent Void 寂静的虚空](#1-the-silent-void-寂静的虚空)
+- [2. The Ancient Masters 旧时代的大师](#2-the-ancient-masters-旧时代的大师)
+- [3. Design 程序设计](#3-design-程序设计)
+- [4. Coding 编程](#4-coding-编程)
+- [5. Maintenance 代码维护](#5-maintenance-代码维护)
+- [6. Management 管理](#6-management-管理)
+- [7. Corporate Wisdom 企业智慧](#7-corporate-wisdom-企业智慧)
+- [8. Hardware and Software 硬件和软件](#8-hardware-and-software-硬件和软件)
+- [9. Epilogue 尾声](#9-epilogue-尾声)
 
 ## 1. The Silent Void 寂静的虚空
 
