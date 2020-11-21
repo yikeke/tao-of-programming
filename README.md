@@ -1,6 +1,6 @@
 # 《编程之道》 (Tao of Programming) 最新中英双语版
 
-作者：[Geoffrey James](https://www.mit.edu/~xela/tao.html)
+作者：Geoffrey James
 
 译者：[Coco](https://github.com/yikeke)
 
