@@ -691,8 +691,8 @@
 大型机程序员开始描述他的系统：“大型机就像一个古老的圣人，坐在数据中心的中央冥想。它的磁盘驱动器彼此相连，形成巨大的机器海洋。软件像钻石般多面、像原始森林般复杂。内部的程序，个个独一无二，运行起来如同一条湍急的河流，在系统中奔腾涌动。因此，我对我现在的工作很满意。”
 
 > The personal computer programmer, upon hearing this, fell silent. But the two programmers remained friends until the end of their days.
->
-> PC 机程序员听完陷入了沉默。不过，这两位程序员做了一辈子的朋友。
+
+PC 机程序员听完陷入了沉默。不过，这两位程序员做了一辈子的朋友。
 
 ### 8.4
 
