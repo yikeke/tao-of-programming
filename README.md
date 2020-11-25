@@ -17,12 +17,12 @@
 
 ## 相关文章
 
-[**五次登上国外程序员圈“新闻联播”，编程界《道德经》有何魔力？最新双语版，速看速收藏！**](https://mp.weixin.qq.com/s/yIV0Ims_an9pkbdMI-XN6g)
+[五次登上国外程序员圈“新闻联播”，编程界《道德经》有何魔力？最新双语版，速看速收藏！](https://mp.weixin.qq.com/s/yIV0Ims_an9pkbdMI-XN6g)
 
 ---
 欢迎扫码关注我的微信公众号『一只狍子的奇思妙想』，主要关注 IT、互联网行业，分享新思考 :-)
 
-<img src="qrcode.jpg" alt="微信公众号二维码：一只狍子的奇思妙想" height="185" />
+<img src="qrcode.jpg" alt="微信公众号二维码：一只狍子的奇思妙想" height="100" />
 
 ## 目录
 
