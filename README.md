@@ -17,7 +17,7 @@
 
 ## 相关文章
 
-<img align="right" src="qrcode.jpg" alt="微信公众号二维码：一只狍子的奇思妙想" height="120" />
+<img align="right" src="qrcode.jpg" alt="微信公众号二维码：一只狍子的奇思妙想" height="150" />
 
 [五次登上国外程序员圈“新闻联播”，编程界《道德经》有何魔力？最新双语版，速看速收藏！](https://mp.weixin.qq.com/s/yIV0Ims_an9pkbdMI-XN6g)
 
