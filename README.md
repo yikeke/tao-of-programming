@@ -4,9 +4,25 @@
 
 译者：[Coco](https://github.com/yikeke)
 
-相关文章链接：[**五次登上国外程序员圈“新闻联播”，编程界《道德经》有何魔力？最新双语版，速看速收藏！**](https://mp.weixin.qq.com/s/yIV0Ims_an9pkbdMI-XN6g)
+## 欢迎贡献、参与讨论
 
-如有改进建议，欢迎提 Issue 或 Pull Request，为这版翻译作出贡献！
+如有改进建议，欢迎提 Pull Request，为这版翻译作出贡献！
+
+如有不解的点，欢迎提 [Issues](https://github.com/yikeke/tao-of-programming/issues) 与大家一起讨论～
+
+目前的 Issues：
+
+- [【讨论】大师砸了游戏机后，弟子为什么突然开悟？悟了什么？](https://github.com/yikeke/tao-of-programming/issues/2)
+- [【讨论】为何作者不鼓励使用 COBOL 商业语言编程？](https://github.com/yikeke/tao-of-programming/issues/1)
+
+## 相关文章
+
+[**五次登上国外程序员圈“新闻联播”，编程界《道德经》有何魔力？最新双语版，速看速收藏！**](https://mp.weixin.qq.com/s/yIV0Ims_an9pkbdMI-XN6g)
+
+---
+欢迎扫码关注我的微信公众号『一只狍子的奇思妙想』，主要关注 IT、互联网行业，分享新思考 :-)
+
+<img src="qrcode.jpg" alt="微信公众号二维码：一只狍子的奇思妙想" height="185" />
 
 ## 目录
 
