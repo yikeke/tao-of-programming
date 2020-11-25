@@ -19,10 +19,9 @@
 
 [五次登上国外程序员圈“新闻联播”，编程界《道德经》有何魔力？最新双语版，速看速收藏！](https://mp.weixin.qq.com/s/yIV0Ims_an9pkbdMI-XN6g)
 
----
 欢迎扫码关注我的微信公众号『一只狍子的奇思妙想』，主要关注 IT、互联网行业，分享新思考 :-)
 
-<img src="qrcode.jpg" alt="微信公众号二维码：一只狍子的奇思妙想" height="100" />
+<img src="qrcode.jpg" alt="微信公众号二维码：一只狍子的奇思妙想" height="80" />
 
 ## 目录
 
@@ -89,6 +88,8 @@
 > But do not program in COBOL if you can avoid it.
 
 但如果可能，尽量不要使用 COBOL 商业语言来编程。
+
+[【讨论】为何作者不鼓励使用 COBOL 商业语言编程？](https://github.com/yikeke/tao-of-programming/issues/1)
 
 ### 1.3
 
@@ -695,6 +696,8 @@
 > The Master dropped the device to the ground and crushed it with his heel. Suddenly the novice was enlightened.
 
 大师把游戏机扔到地上，狠狠踩碎了它。一瞬间，弟子获得了启示。
+
+[【讨论】大师砸了游戏机后，弟子为什么突然开悟？悟了什么？](https://github.com/yikeke/tao-of-programming/issues/2)
 
 ### 8.3
 
