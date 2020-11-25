@@ -21,7 +21,7 @@
 
 欢迎扫码关注我的微信公众号『一只狍子的奇思妙想』，主要关注 IT、互联网行业，分享新思考 :-)
 
-<img src="qrcode.jpg" alt="微信公众号二维码：一只狍子的奇思妙想" height="120" />
+<img align="right" src="qrcode.jpg" alt="微信公众号二维码：一只狍子的奇思妙想" height="120" />
 
 ## 目录
 
