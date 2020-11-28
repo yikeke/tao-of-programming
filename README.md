@@ -14,6 +14,8 @@
 
 - [【讨论】大师砸了游戏机后，弟子为什么突然开悟？悟了什么？](https://github.com/yikeke/tao-of-programming/issues/2)
 - [【讨论】为何作者不鼓励使用 COBOL 商业语言编程？](https://github.com/yikeke/tao-of-programming/issues/1)
+- [【讨论】“个人电脑的 DOS 中也有道吗？” 大师为何微微一笑？](https://github.com/yikeke/tao-of-programming/issues/4)
+- [【讨论】The Silent Void 这标题，感觉用中文很难翻译啊](https://github.com/yikeke/tao-of-programming/issues/3)
 
 ## 相关文章
 
@@ -75,6 +77,8 @@
 > The Tao of Programming flows far away and returns on the wind of morning.
 
 编程之道流淌至远方，又乘着第一缕晨风回归。
+
+[【讨论】The Silent Void 这标题，感觉用中文很难翻译啊](https://github.com/yikeke/tao-of-programming/issues/3)
 
 ### 1.2
 
@@ -387,6 +391,8 @@
 > The Master coughed and shifted his position slightly. "The lesson is over for today," he said.
 
 大师轻咳一声，微微一动。“今天的课就上到这里。”
+
+[【讨论】“个人电脑的 DOS 中也有道吗？” 大师为何微微一笑？](https://github.com/yikeke/tao-of-programming/issues/4)
 
 ### 4.4
 
