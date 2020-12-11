@@ -8,9 +8,9 @@
 
 如有改进建议，欢迎提 Pull Request，为这版翻译作出贡献！
 
-如有不解的点，欢迎提 [Issues](https://github.com/yikeke/tao-of-programming/issues) 与大家一起讨论～
+如有不解的点，欢迎提 [Discussions](https://github.com/yikeke/tao-of-programming/discussions) 与大家一起讨论～
 
-目前的 Issues：
+目前的 Discussions：
 
 - [【讨论】大师砸了游戏机后，弟子为什么突然开悟？悟了什么？](https://github.com/yikeke/tao-of-programming/issues/2)
 - [【讨论】为何作者不鼓励使用 COBOL 商业语言编程？](https://github.com/yikeke/tao-of-programming/issues/1)
